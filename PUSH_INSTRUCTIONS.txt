@@ -1,0 +1,30 @@
+========================================
+  EASIEST WAY TO PUSH — GitHub Desktop
+========================================
+
+STEP 1: Download GitHub Desktop
+   → Open in browser: https://desktop.github.com
+   → Click "Download for Windows"
+   → Install and open the app
+
+STEP 2: Sign in (one time)
+   → In GitHub Desktop: File → Options → Accounts
+   → Click "Sign in" to GitHub.com
+   → Log in in the browser (your normal GitHub username + password)
+   → Done — you won't need to do this again
+
+STEP 3: Add your project (one time)
+   → In GitHub Desktop: File → Add local repository
+   → Click "Choose..."
+   → Go to: C:\Users\L E N O V O\Downloads\b_lSMIPFLYRRp-1772793559099
+   → Click "Select Folder"
+   → If it says "not a Git repository", say No and pick the folder again
+
+STEP 4: Push (every time you want to upload)
+   → You'll see your repo in GitHub Desktop
+   → Top right: click the blue "Push origin" button
+   → Done. Your code is on GitHub and Vercel will update.
+
+That's it. Next time you change code: open GitHub Desktop, click "Push origin".
+
+========================================

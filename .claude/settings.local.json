@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx vercel --prod --name civicpulse-app --yes)",
+      "Bash(powershell -Command \"Set-Location ''C:\\\\Users\\\\L E N O V O\\\\Downloads\\\\b_lSMIPFLYRRp-1772793559099\\\\android''; .\\\\gradlew.bat assembleDebug 2>&1\")"
+    ]
+  }
+}
